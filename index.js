@@ -1,4 +1,5 @@
-const URL="https://itau-tuma6b-gregory-back-cpf.herokuapp.com/"
+const URL="https://itau-tuma6b-gregory-back-cpf.herokuapp.com/validacpf?cpf="
+
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
